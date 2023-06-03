@@ -15,7 +15,7 @@
 source-code: /github.com/ojeblik/whileyouwerehere_draft
 ##########
 # SITE SETTINGS
-#
+
 # title of site appears in banner
 title: While You Were Here
 # tagline, a short phrase that will appear throughout the site in the top banner
@@ -37,12 +37,12 @@ metadata: demo-metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
-  - data: 'demo-metadata'
-    template: 'item'
-     name: 'objectid'
-     dir: 'items'
-     extension: 'html' 
-     filter: 'objectid'  
+  #data: 'demo-metadata'
+  # template: 'item'
+  #  name: 'objectid'
+  #  dir: 'items'
+  #  extension: 'html' 
+  #  filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 
@@ -65,8 +65,8 @@ metadata: demo-metadata
 ##########
 # ROBOTS EXCLUDE
 #
-set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# set noindex to true if you do NOT want Google to index your site
+ noindex: true 
 
 ##########
 # BUILD SETTINGS 
