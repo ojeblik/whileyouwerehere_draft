@@ -8,9 +8,8 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: /Users/carolynfaber/Documents/github
+url: Macintosh HD/Users/carolynfaber/Documents/github
 # path to location on the domain if necessary e.g. /digital/hjccc
-
 baseurl: /whileyouwerehere_draft
 # location of code, the full url to your github repository
 source-code: https://github.com/ojeblik/whileyouwerehere_draft
