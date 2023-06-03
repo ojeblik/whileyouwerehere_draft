@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: /Users/carolynfaber/Documents/github
 # path to location on the domain if necessary e.g. /digital/hjccc
-/Users/carolynfaber/Documents/github
+
 baseurl: /whileyouwerehere_draft
 # location of code, the full url to your github repository
 source-code: https://github.com/ojeblik/whileyouwerehere_draft
@@ -67,7 +67,7 @@ metadata: demo-metadata
 ##########
 # ROBOTS EXCLUDE
 #
-# set noindex to true if you do NOT want Google to index your site
+set noindex to true if you do NOT want Google to index your site
 # noindex: true 
 
 ##########
