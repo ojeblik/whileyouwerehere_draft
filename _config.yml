@@ -1,16 +1,16 @@
 ##########
 # collectionbuilder-csv
 # Jekyll Digital Collection Generator
-https://github.com/CollectionBuilder/collectionbuilder-csv
+# https://github.com/CollectionBuilder/collectionbuilder-csv
 ##########
 
 ##########
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://github.com/ojeblik/whileyouwerehere_draft
+# url: https://github.com/ojeblik/whileyouwerehere_draft
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /whileyouwerehere_draft
+# baseurl: /whileyouwerehere_draft
 # location of code, the full url to your github repository
 source-code: https://github.com/ojeblik/whileyouwerehere_draft
 
