@@ -12,7 +12,7 @@
 # path to location on the domain if necessary e.g. /digital/hjccc
 # baseurl: /whileyouwerehere
 # location of code, the full url to your github repository
-source-code: https://github.com/ojeblik/whileyouwerehere_draft
+source-code: https:://github.com/ojeblik/whileyouwerehere_draft
 
 ##########
 # SITE SETTINGS
