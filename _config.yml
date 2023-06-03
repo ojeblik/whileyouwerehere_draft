@@ -10,8 +10,8 @@
 # site domain, full URL to the production location of your collection
 url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-# /Users/carolynfaber/Documents/github
-# baseurl: /whileyouwerehere_draft
+/Users/carolynfaber/Documents/github
+baseurl: /whileyouwerehere_draft
 # location of code, the full url to your github repository
 source-code: https://github.com/ojeblik/whileyouwerehere_draft
 
