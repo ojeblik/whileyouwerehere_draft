@@ -12,7 +12,7 @@ featured-image: roos_002
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 15em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: top left # Default is top
+home-banner-image-position: center # Default is top
 
 ##########
 # ITEM PAGE
@@ -96,7 +96,7 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#191919"
+text-color: "#FAFAFA"
 link-color: "#0d6efd"
 base-font-family: Arial Narrow # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
